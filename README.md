@@ -1,4 +1,4 @@
-# this is the code for speach-to-text
+# this is the code for speech-to-text
 
 <!doctype html>
 	<head>
