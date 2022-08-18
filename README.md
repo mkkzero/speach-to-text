@@ -96,3 +96,6 @@ recognition.start();
 		</script>
 	</body>
 </html>
+
+
+made by Mohanad Ghurab for the summer training for the IOT task in smart methods
